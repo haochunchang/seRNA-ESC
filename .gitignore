@@ -54,4 +54,4 @@ docs/_build/
 .gz
 .ipynb_checkpoints/
 *.pkl
-./notebooks/*
+./script/notebooks/*
