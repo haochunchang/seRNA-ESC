@@ -53,4 +53,4 @@ docs/_build/
 .DS_Store
 .gz
 .ipynb_checkpoints/
-.pkl
+*.pkl
